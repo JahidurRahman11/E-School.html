@@ -1,0 +1,68 @@
+.body{
+    margin: 0;
+}
+.row{
+    text-align: center;
+    padding-top: 50px;
+}
+h2{
+    font-size: 20px;
+    color: red;
+}
+h3{
+    font-size: 40px;
+}
+.color{
+    color: darkgreen;
+}
+.heading{
+    background-color:rgb(175, 236, 221);
+}
+.book{
+    background-color:rgb(175, 236, 221);
+    padding-top: 20px;
+}
+h1{
+    font-size: 20px;
+}
+.course h1{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.card{
+    border: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.card,button{
+    text-align: center;
+}
+.card p{
+    text-align: center;
+    padding-top: 10px;
+}
+.testmonial h1{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom:20px;
+}
+.millions{
+    background-color:rgb(160, 126, 184) ;
+}
+.test img{
+    padding-bottom: 40px;
+    padding-right:20px ;
+}
+.millions{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+h6{
+    font-size: 25px;
+}
+.millions p{
+    font-size: 25px;
+    padding: 5px 20px 5px 25px;
+}
